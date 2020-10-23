@@ -1,0 +1,249 @@
+.bg_color{
+    background-image: linear-gradient(to right, rgb(23, 35, 177), rgb(88, 240, 255));
+}
+
+#company{
+    margin-top: 0.5rem;
+    color: white;
+    
+}
+
+ul{
+    list-style: none;
+}
+ul li{
+    display: inline-block;
+    padding: 15px;
+    cursor: pointer;
+    color: #fff;
+   
+}
+.business{
+    margin-top: 7rem;
+    font-size: 50px;
+    background-image: linear-gradient(to right, rgb(23, 35, 177), rgb(88, 240, 255));
+    color: white;
+    border-radius: 10px;
+}
+p{
+    font-size: 23px;
+}
+.fa-play-circle{
+    font-size: 50px;
+    cursor: pointer;
+    margin-top: 25px;
+}
+
+span{
+    font-size: 20px;
+    position: relative;
+    top: -15px;
+    left: 15px;
+    color: black;
+}
+#image{
+    width: 30rem;
+    height: 30rem;
+    margin: auto;
+}
+#services{
+    text-align: center;
+    margin-bottom: 40px;
+}
+#services::after{
+    content: "";
+    width: 70px;
+    height: 5px;
+    display: block;
+    margin: 10px auto;
+    background-image: linear-gradient(to right, rgb(23, 35, 177), rgb(88, 240, 255));
+    border-radius: 6px;
+}
+.itw{
+    justify-content: center;
+    text-align: center;
+}
+#internship{
+    
+    width: 7rem;
+    height: 7rem;
+}
+
+#training{
+    width: 7rem;
+    height: 7rem;
+}
+#workshop{
+    width: 7rem;
+    height: 7rem;
+}
+.internship{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 3rem;
+}
+.work{
+    font-size: 15px;
+}
+#fom{
+    background-image: linear-gradient(to right, rgb(23, 35, 177), rgb(88, 240, 255));
+    width: 15%;
+    height: 3rem;
+    color: white;
+    border-radius: 30px;
+    outline: none;
+    border: 0px solid;
+    margin-top: 20px;
+    
+}
+
+.color{
+    margin-top: 100px;
+    background-color:#f0f0f1;
+    height: 100%;
+}
+#aboutus{
+    margin-top: 50px;
+    text-align: center;
+}
+#aboutus::after{
+    content: "";
+    width: 70px;
+    height: 5px;
+    display: block;
+    margin: 10px auto;
+    background-image: linear-gradient(to right, rgb(23, 35, 177), rgb(88, 240, 255));
+    border-radius: 6px;
+}
+.sometext{
+    color: black;
+}
+#rr{
+    width: 100%;
+    height: 100%;
+}
+
+#test{
+    margin-top: 50px;
+}
+#test::after{
+    content: "";
+    width: 70px;
+    height: 5px;
+    display: block;
+    margin: 10px auto;
+    background-image:linear-gradient(to right, rgb(23, 35, 177), rgb(88, 240, 255)); 
+    border-radius: 6px;
+
+}
+.tsize{
+    font-size: 15px;
+    padding-top: 50px;
+    margin-left: 10px;
+    font-weight: lighter;
+}
+.tsize::before{
+    position: absolute;
+    content: "";
+    height: 110px;
+    border-left: 3px solid #00aaff;
+    margin-left: -20px;
+}
+.gap{
+    margin-top: 70px;
+    padding-top: 50px;
+    background-image: linear-gradient(to right, rgb(23, 35, 177), rgb(88, 240, 255));
+    height: 100%;
+   
+}
+#quot{
+    font-size: 18px;
+}
+.office{
+    font-size: 22px;
+    padding-right: 100px;
+}
+.fa-map-marker-alt{
+    font-size: 20px;
+     margin-top: 25px;
+    color: white;
+}
+.fa-phone-alt{
+    font-size: 20px;
+   margin-top: 30px;
+   margin-right: 75px;
+    color: white;
+}
+.fa-envelope{
+    font-size: 20px;
+    margin-top: 30px;
+    color: white;
+    
+}
+.adrs{
+    text-align: center;
+    top: 0.1rem;
+    color: white;
+   
+}
+.num{
+    top: 0.1rem;
+    color: white;
+}
+.mail{
+    top: 0.1rem;
+    color: white;
+}
+input{
+   
+    padding:8px ;
+    width: 85%;
+    outline: none;
+    top: 5px;
+}
+#subscribe{
+    margin:15px auto;
+    background-image: linear-gradient(to right, rgb(23, 35, 177), rgb(88, 240, 255));
+    height: 20%;
+    width: 35%;
+    border-radius: 30px;
+    outline: none;
+    border: 0px solid;
+    color: white;
+}
+.find{
+    font-size: 18px;
+    padding-top: 5px;
+    color: white;
+}
+#socialmedia{
+    font-size: 25px;
+    cursor: pointer;
+    color: white;
+    
+}
+.fa-facebook-f{
+    position: relative;
+}
+.fa-instagram{
+    position: relative;
+    margin-left: 20px;
+}
+.fa-twitter{
+    position: relative;
+    margin-left: 20px;
+}
+.fa-whatsapp{
+    position: relative;
+    margin-left: 20px;
+}
+#copyright{
+    font-size: 18px;
+    margin-top: 40px;
+    color: white;
+}
+.pct{
+    color: white;
+    cursor: pointer;
+    margin-top: 40px;
+}
